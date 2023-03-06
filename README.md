@@ -1,1 +1,11 @@
-# Solana
+Solana was founded by Anatoly Yakavenko – a Russian computer scientist. It officially came into being when he wrote the Solana Whitepaper in 2017. Before inventing Solana, Yakavenko had previously worked at Qualcomm for 13 years. He played a significant role in developing distributed systems at Mesosphere and Dropbox. Two former colleagues of Yakovenko at Qualcomm and Dropbox, Eric Williams and Greg Fitzgerald, also joined him in the development of the Solana blockchain.
+
+Solana was made to solve the scalability problem in the blockchain industry. Prior to Solana, most of the popular blockchains struggled with processing a large number of transactions in a short time period. For example, Bitcoin – the most popular and widely adopted blockchain – can only process seven transactions per second. Even the second generation blockchain, Ethereum, can validate only up to 30 transactions during this period.
+
+Compare this with centralized financial platforms, such as Visa, which can process up to 24,000 transactions every second. In order to be as efficient as a centralized financial system, cryptocurrencies need to become as robust as these payment services.
+
+Yakavenko believed that using an “internal clock” in the blockchain mechanisms could solve the scalability problem. This would massively reduce the time required to process transactions without compromising on the decentralization feature of the network. He used a hybrid consensus model which combined Proof-of-Stake and Proof of History for the Solana blockchain.
+
+Solana’s development is coordinated by a Switzerland-based non-profit called Solana Foundation. The underlying software technology for the Solana project was developed by a US-based software company named Solana Labs. The project raised around $25 million through various ICOs during 2017-2020. In 2021, it again raised almost $340 million through various crypto capital ventures.
+
+Though the project is still in beta, the Solana mainnet was launched to the public in March 2020. Solana is also a smart contracts-compatible blockchain, which means programmers can develop applications on its blockchain. It is one of the reasons the project is often regarded as an Ethereum competitor.
